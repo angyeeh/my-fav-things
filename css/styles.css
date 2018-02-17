@@ -1,0 +1,22 @@
+h1 {
+  font-family: fantasy;
+  text-align: center;
+  color: #4D5050;
+}
+
+p {
+  font-style: italic;
+}
+
+h2 {
+  text-align: center;
+  text-emphasis-color: white;
+}
+
+img {
+  image-resolution: 40px;
+}
+
+body {
+  background-color: #0A7DAB;
+}
